@@ -1,0 +1,5 @@
+---
+  - name: "Download wp-cli"
+    get_url:
+      url: "https://raw.githubusercontent.com/wp-cli/builds/gh-pages/phar/wp-cli.phar"
+      dest: "~/.local/bin/wp-cli"
