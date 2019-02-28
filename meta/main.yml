@@ -60,7 +60,6 @@ galaxy_info:
 
 dependencies:
   - geerlingguy.mysql
-  - geerlingguy.php-fpm
   - geerlingguy.repo-epel
   - geerlingguy.repo-remi
   - geerlingguy.apache
